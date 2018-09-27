@@ -72,7 +72,9 @@ make
 make pre
 ```
 
-Untuk menjalankan server gunakan command berikut. Server akan selalu berjalan pada port 5555.
+Untuk menjalankan server gunakan command berikut. Server akan selalu berjalan pada port 5555. 
+
+**Catatan**: di beberapa komputer kompilasi memberikan warning "this if does not guard...". Warning aman untuk diabaikan.
 
 ```
 ./pre_server 0.0.0.0
